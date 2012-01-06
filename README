@@ -1,0 +1,7 @@
+My first attempt at OpenCV. Tracks your body and detects if your arms are moving up or down. Written in C++ for a Mac, using the OpenCV framework package.
+
+Code available here https://github.com/dscripps/Open-CV-Gesture-Demo
+
+Inspired by Andrew Kirillov's tutorial here http://www.codeproject.com/KB/audio-video/hands_gesture_recognition.aspx?msg=...
+
+A demo video of the program is available at http://youtu.be/boWjrXEuUDM
